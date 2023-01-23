@@ -1,0 +1,22 @@
+{
+  "name": "open-source-social-science.github.io",
+  "version": "1.0.0",
+  "description": "_Documentation is in progress._",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-source-social-science/open-source-social-science.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/open-source-social-science/open-source-social-science.github.io/issues"
+  },
+  "homepage": "https://github.com/open-source-social-science/open-source-social-science.github.io#readme",
+  "dependencies": {
+    "tocbot": "^4.20.0"
+  }
+}
